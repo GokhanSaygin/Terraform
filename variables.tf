@@ -7,7 +7,7 @@
 
 variable "dev_users" {
     type = list
-    default = ["Liam", "Noah", "Oliver", "Elijah", "James", "William", "Benjamin", "Lucas", "Henry"] 
+    default = ["Liam", "Oliver", "Elijah", "James", "William", "Benjamin", "Lucas", "Henry"] 
 }
 
 variable "ops_users" {
